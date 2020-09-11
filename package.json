@@ -9,7 +9,7 @@
   "author": "Mateusz Biłgorajski <bilgorajskim@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "nodemailer": "^6.2.1"
   }
 }
